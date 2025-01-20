@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI-bundle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{408EB123-C768-4BF9-8673-C1D4A993CD13}|fib\\fib.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\cli-bundle\\fib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408EB123-C768-4BF9-8673-C1D4A993CD13}|fib\\fib.csproj|solutionrelative:fib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408EB123-C768-4BF9-8673-C1D4A993CD13}|fib\\fib.csproj|c:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\cli-bundle\\fib\\fib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{408EB123-C768-4BF9-8673-C1D4A993CD13}|fib\\fib.csproj|solutionrelative:fib\\fib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI-bundle\\fib\\Program.cs",
+              "RelativeDocumentMoniker": "fib\\Program.cs",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI-bundle\\fib\\Program.cs",
+              "RelativeToolTip": "fib\\Program.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAYwLUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:08:20.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fib.csproj",
+              "DocumentMoniker": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI-bundle\\fib\\fib.csproj",
+              "RelativeDocumentMoniker": "fib\\fib.csproj",
+              "ToolTip": "C:\\\u05DE\u05D9\u05E8\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\CLI-bundle\\fib\\fib.csproj",
+              "RelativeToolTip": "fib\\fib.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T13:09:30.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
